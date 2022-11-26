@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    background: #0091D5;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 24px;
+    font-family: monospace;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+article {
+    max-width: 850px;
+    margin: auto;
+    padding:8px;
+    padding-top: 70px;
+}
+
+.post-writer {
+    color: gainsboro;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.share-post {
+    color: black;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+    
+
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 52px;
+    letter-spacing: 1.3px;
+    line-height: 58px
+}
+
+.main-image img {
+    max-width: 100%;
+}
+
+footer {
+    background: whitesmoke;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 24px;
+    font-family: monospace;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#title-section {
+    margin-bottom: 50px;
+}
+
+#content-section {
+    max-width: 680;
+    margin: auto;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.images img {
+    max-width: 25px;
+    max-height: 25px;
+    vertical-align: middle;
+}
